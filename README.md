@@ -1,1 +1,1 @@
-# M-todos-Num-ricos_ProyectoIIB
+# Metodos_Numericos_ProyectoIIB
