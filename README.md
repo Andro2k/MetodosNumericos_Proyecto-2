@@ -14,8 +14,6 @@ Donde:
 - $\alpha$, $\beta$ y $\gamma$ son constantes positivas.
 - $t$ es el tiempo.
 
-<img src="image.png" width="200" alt="Imagen del Nanodron" />
-
 ## 🎯 Objetivo
 El objetivo de este proyecto es desarrollar un programa que permita graficar la trayectoria del nanodron en el espacio, utilizando diferentes valores para $\alpha$, $\beta$ y $\gamma$. Además, el programa debe ser capaz de:
 - Permitir la entrada interactiva de los valores de $\alpha$, $\beta$ y $\gamma$.
@@ -59,6 +57,8 @@ En esta sección se presentarán las gráficas de las trayectorias para los dife
 
 ### 🌟 Caso 2
 - Parámetros: $\alpha = 10$, $\beta = 28$, $\gamma = \frac{8}{3}$
+
+[![Informe General](assets/info.png)](https://epnecuador-my.sharepoint.com/:w:/g/personal/jose_andino_epn_edu_ec/EcrDU2tIPdRAk0satv8X9t8BoqURWEQh-E0G2Zu5oUFQxg)
 
 ## 📜 Conclusiones
 Se discutirán las conclusiones obtenidas de los experimentos realizados, evaluando cómo las diferentes configuraciones de parámetros afectan la estabilidad y el comportamiento de las trayectorias del nanodron.
