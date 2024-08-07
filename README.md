@@ -57,7 +57,8 @@ En esta sección se presentarán las gráficas de las trayectorias para los dife
 
 ### 🌟 Caso 2
 - Parámetros: $\alpha = 10$, $\beta = 28$, $\gamma = \frac{8}{3}$
-
+- 
+## 📃 Informe General:
 [![Informe General](assets/info.png)](https://epnecuador-my.sharepoint.com/:w:/g/personal/jose_andino_epn_edu_ec/EcrDU2tIPdRAk0satv8X9t8BoqURWEQh-E0G2Zu5oUFQxg)
 
 ## 📜 Conclusiones
