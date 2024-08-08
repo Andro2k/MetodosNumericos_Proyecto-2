@@ -1,5 +1,11 @@
 # 🚁 Proyecto II: Nanodron - Métodos Numéricos 🌟
 
+## Integrantes:
+- ROBERTH ALEXANDER GANCINO TOALOMBO
+- OSCAR PAUL ALBAN CAMPANA
+- FABIAN ALEXANDER SIMBANA PINDUISACA
+- JOSE LUIS ANDINO PADILLA
+
 ## 📖 Descripción
 El proyecto **Nanodron** consiste en simular el movimiento de un nanodron de masa despreciable que se utilizará en aplicaciones meteorológicas. El movimiento del nanodron está gobernado por las siguientes ecuaciones diferenciales:
 
