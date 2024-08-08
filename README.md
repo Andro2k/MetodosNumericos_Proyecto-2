@@ -49,15 +49,15 @@ En esta sección se presentarán las gráficas de las trayectorias para los dife
 
 ### 🌟 Caso 1
 - Parámetros: $\alpha = 0.1$, $\beta = 0.1$, $\gamma = 0.1$
-- Posiciones iniciales:
+- Posicion inicial:
   - A: $x = 1$, $y = 1$, $z = 1$
-  - B: $x = 0.9$, $y = 0.9$, $z = 0.9$
 
 ![alt text](ezgif-2-1fabaa24c0.gif)
 
 ### 🌟 Caso 2
 - Parámetros: $\alpha = 10$, $\beta = 28$, $\gamma = \frac{8}{3}$
-- 
+- Posicion inicial:
+  - B: $x = 0.9$, $y = 0.9$, $z = 0.9$
 ## 📃 Informe General:
 [![Informe General](assets/info.png)](https://epnecuador-my.sharepoint.com/:w:/g/personal/jose_andino_epn_edu_ec/EcrDU2tIPdRAk0satv8X9t8BoqURWEQh-E0G2Zu5oUFQxg)
 
