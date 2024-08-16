@@ -64,8 +64,6 @@ En esta sección se presentarán las gráficas de las trayectorias para los dife
 - Parámetros: $\alpha = 10$, $\beta = 28$, $\gamma = \frac{8}{3}$
 - Posicion inicial:
   - B: $x = 0.9$, $y = 0.9$, $z = 0.9$
-## 📃 Informe General:
-[![Informe General](assets/info.png)](https://epnecuador-my.sharepoint.com/:w:/g/personal/jose_andino_epn_edu_ec/EcrDU2tIPdRAk0satv8X9t8BoqURWEQh-E0G2Zu5oUFQxg)
 
 ## 📜 Conclusiones
 Se discutirán las conclusiones obtenidas de los experimentos realizados, evaluando cómo las diferentes configuraciones de parámetros afectan la estabilidad y el comportamiento de las trayectorias del nanodron.
