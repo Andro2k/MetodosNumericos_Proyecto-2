@@ -25,8 +25,6 @@ El objetivo de este proyecto es desarrollar un programa que permita graficar la 
 - Permitir la entrada interactiva de los valores de $\alpha$, $\beta$ y $\gamma$.
 - Configurar el tiempo de simulación.
 - Graficar la trayectoria para diferentes combinaciones de parámetros y condiciones iniciales.
-- Realizar experimentos con al menos 3 casos de prueba diferentes y 3 posiciones iniciales cercanas entre sí.
-- Generar un video de máximo 30 segundos demostrando el uso del programa.
 
 ### Detalles Importantes de la Implementación
 - La elección del método numérico influye en la precisión de la simulación.
