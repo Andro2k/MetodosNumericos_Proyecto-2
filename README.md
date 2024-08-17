@@ -30,3 +30,12 @@ El objetivo de este proyecto es desarrollar un programa que permita graficar la 
 - La elección del método numérico influye en la precisión de la simulación.
 - Las trayectorias serán representadas en un espacio tridimensional, utilizando una librería gráfica adecuada para mostrar la evolución del movimiento del nanodron.
 
+---
+
+## 📂 Recursos Adicionales
+
+### 📝 [Ver Informe](Informe.pdf)
+### 🎥 [Ver Video](sources/video.mp4)
+![Ver Video](sources/corto.gif)
+### 📊 [Ver Presentación](https://gamma.app/docs/Untitled-tdepsfeo0f12che?mode=doc)
+
